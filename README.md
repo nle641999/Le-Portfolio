@@ -2,7 +2,7 @@
 
 This portfolio is deployed at (https://nle641999.github.io/Le-Portfolio/")!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
