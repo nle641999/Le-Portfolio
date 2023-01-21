@@ -6,8 +6,10 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiGit,
   DiHtml5,
+  DiGithub,
+  DiCss3,
+  DiMysql,
 } from "react-icons/di";
 // import {
 //   SiPytorch,
@@ -29,10 +31,13 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <DiMysql/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3/>
       </Col>
     </Row>
   );
