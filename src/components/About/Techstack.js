@@ -7,7 +7,6 @@ import {
   DiNodejs,
   DiMongodb,
   DiHtml5,
-  DiGithub,
   DiCss3,
   DiMysql,
 } from "react-icons/di";
