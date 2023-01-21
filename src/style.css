@@ -270,6 +270,11 @@ html {
     text-align: left;
   }
   
+  .big-img {
+    max-width: 150%;
+    height: auto;
+  }
+
   .heading {
     font-size: 2.4em !important;
     padding-left: 50px !important;
