@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This portfolio is deployed at (https://nle641999.github.io/Nick-R-Portfolio/)!
+This portfolio is deployed at (https://nle641999.github.io/)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
