@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.2db48dce.css",
-    "main.js": "/static/js/main.972f1994.js",
-    "static/js/787.862f92d4.chunk.js": "/static/js/787.862f92d4.chunk.js",
-    "static/media/home-bg.jpg": "/static/media/home-bg.32213e3dd8f96be4fa61.jpg",
-    "static/media/tunage.png": "/static/media/tunage.a9fbf220a83561bf05fa.png",
-    "static/media/burn.png": "/static/media/burn.c647d9dd0948416dec68.png",
-    "static/media/portfolio.png": "/static/media/portfolio.8cab1960b6d54256a08b.png",
-    "static/media/pfp.png": "/static/media/pfp.278642076225b8416266.png",
-    "static/media/study.png": "/static/media/study.844893346bfb18c5c3d0.png",
-    "static/media/weather.png": "/static/media/weather.73a859ff275cc348df7e.png",
-    "static/media/about.png": "/static/media/about.3de0994c66d7657ae1d6.png",
-    "static/media/plan.png": "/static/media/plan.7061ac1f88533ac6616a.png",
-    "static/media/resume.pdf": "/static/media/resume.ebad4c9dbb0e380b4597.pdf",
-    "static/media/avatar.svg": "/static/media/avatar.65358a206e510ec6a1f435e6e5ab95e6.svg",
-    "index.html": "/index.html",
-    "static/media/pre.svg": "/static/media/pre.3b5cf42a9016ae4055b6.svg",
-    "main.2db48dce.css.map": "/static/css/main.2db48dce.css.map",
-    "main.972f1994.js.map": "/static/js/main.972f1994.js.map",
-    "787.862f92d4.chunk.js.map": "/static/js/787.862f92d4.chunk.js.map"
+    "main.css": "/Nick-R-Portfolio/static/css/main.ba8965fa.css",
+    "main.js": "/Nick-R-Portfolio/static/js/main.898b7889.js",
+    "static/js/787.862f92d4.chunk.js": "/Nick-R-Portfolio/static/js/787.862f92d4.chunk.js",
+    "static/media/home-bg.jpg": "/Nick-R-Portfolio/static/media/home-bg.32213e3dd8f96be4fa61.jpg",
+    "static/media/tunage.png": "/Nick-R-Portfolio/static/media/tunage.a9fbf220a83561bf05fa.png",
+    "static/media/burn.png": "/Nick-R-Portfolio/static/media/burn.c647d9dd0948416dec68.png",
+    "static/media/portfolio.png": "/Nick-R-Portfolio/static/media/portfolio.8cab1960b6d54256a08b.png",
+    "static/media/pfp.png": "/Nick-R-Portfolio/static/media/pfp.278642076225b8416266.png",
+    "static/media/study.png": "/Nick-R-Portfolio/static/media/study.844893346bfb18c5c3d0.png",
+    "static/media/weather.png": "/Nick-R-Portfolio/static/media/weather.73a859ff275cc348df7e.png",
+    "static/media/about.png": "/Nick-R-Portfolio/static/media/about.3de0994c66d7657ae1d6.png",
+    "static/media/plan.png": "/Nick-R-Portfolio/static/media/plan.7061ac1f88533ac6616a.png",
+    "static/media/resume.pdf": "/Nick-R-Portfolio/static/media/resume.ebad4c9dbb0e380b4597.pdf",
+    "static/media/avatar.svg": "/Nick-R-Portfolio/static/media/avatar.65358a206e510ec6a1f435e6e5ab95e6.svg",
+    "index.html": "/Nick-R-Portfolio/index.html",
+    "static/media/pre.svg": "/Nick-R-Portfolio/static/media/pre.3b5cf42a9016ae4055b6.svg",
+    "main.ba8965fa.css.map": "/Nick-R-Portfolio/static/css/main.ba8965fa.css.map",
+    "main.898b7889.js.map": "/Nick-R-Portfolio/static/js/main.898b7889.js.map",
+    "787.862f92d4.chunk.js.map": "/Nick-R-Portfolio/static/js/787.862f92d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2db48dce.css",
-    "static/js/main.972f1994.js"
+    "static/css/main.ba8965fa.css",
+    "static/js/main.898b7889.js"
   ]
 }
