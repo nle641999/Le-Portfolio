@@ -83,8 +83,8 @@ function Projects() {
               title="My First Portfolio"
               description="The purpose of this project was to set up a very rough draft of my online portfolio containing deployed coding works and information about my voice acting career. It was fun tinkering with the css style sheet while also being able to appreciate the construction of websites far more due to this project.
               Perhaps the most difficult task in this website was setting up the rows of information containing my deployed works."
-              ghLink="https://github.com/nle641999/Nicholas-Portfolio"
-              demoLink='https://nle641999.github.io/Nicholas-Portfolio/'
+              ghLink="https://github.com/nle641999/Nicholas-"
+              demoLink='https://nle641999.github.io/Nicholas-/'
             />
           </Col>
         </Row>
