@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={weather}
               isBlog={false}
-              title="Weather Dashboard"
-              description="An application that allows users to search for a city and see the current weather conditions as well as a 5 day forecast. The application also saves the user's search history and allows them to click on the city name to see the weather conditions again. The application also uses local storage to save the user's search history."
-              ghLink="https://github.com/nle641999/Weather-Forecasting-JS"
-              demoLink="https://nle641999.github.io/Weather-Forecasting-JS/"
+              title="Frogge E-Commerce"
+              description="An e-commerce website that allows users to search for products, add them to their cart, and checkout. The application also uses local storage to save the user's cart information. The application also uses Bootstrap to style the page. Built on the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API."
+              ghLink="https://github.com/nle641999/Frogge"
+              demoLink="https://frogge-e-commerce.herokuapp.com/"
             />
           </Col>
 

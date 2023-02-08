@@ -38,7 +38,7 @@ function NavBar() {
     >
       <Container>
         {/* <Navbar.Brand href="/" className="d-flex">
-          <img src = "./Assets/logo.png" alt="Nicholas Le" />
+          <img src = "./Assets/pfp.png" alt="Nicholas Le" />
         </Navbar.Brand> */}
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
